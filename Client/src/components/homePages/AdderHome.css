@@ -1,0 +1,34 @@
+.body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    min-height: 100vh;
+    padding: 1.5%;
+}
+
+
+.logouticon {
+    width: 40px;
+    right: 30px;
+    position: fixed;
+}
+
+.userdetails {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.line-top2 {
+    height: 5px;
+    background-color: black;
+}
+
+.username {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.table
+{
+    border: 2px solid black;
+}
